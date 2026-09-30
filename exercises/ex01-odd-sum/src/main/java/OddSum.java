@@ -3,7 +3,7 @@
  *
  * Your task is to complete the oddSum method below.
  *
- *
+ *quick test
  * You only need to edit the body of oddSum — do not change OddSumTest.
  *
  * Relevant readings: 1.6. Arrays and 1.8.2. for Loops.
